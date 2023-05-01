@@ -129,6 +129,7 @@ env.bak/
 venv.bak/
 .idea/
 python==3.8/
+explicatii.txt
 
 # Spyder project settings
 .spyderproject
