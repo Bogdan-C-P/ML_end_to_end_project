@@ -121,8 +121,9 @@ celerybeat.pid
 
 # Environments
 .env
-src/components/artifacts/
+.artifacts/
 src/components/logs/
+.logs/
 .venv
 env/
 myenv/
