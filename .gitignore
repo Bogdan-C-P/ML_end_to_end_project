@@ -123,6 +123,7 @@ celerybeat.pid
 .env
 .artifacts/
 src/components/logs/
+/src/logs/
 .logs/
 .venv
 env/
